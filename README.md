@@ -9,6 +9,15 @@ npm install
 npm start
 ```
 
+## Amplify Commands
+```sh
+amplify configure # initialize the CLI on local machine
+git push # push changes for frontend code
+amplify push --y # push changes for backend
+amplify console # open the apps console on AWS
+amplify console api # view the GraphQL API
+```
+
 ---
 
 # Getting Started with Create React App
