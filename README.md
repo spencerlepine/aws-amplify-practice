@@ -1,3 +1,16 @@
+# AWS Amplify Demo
+
+Following this tutorial: [Create a simple web application using AWS Amplify
+](https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/)
+
+## Setup
+```sh
+npm install
+npm start
+```
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
